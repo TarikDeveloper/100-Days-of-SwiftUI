@@ -44,15 +44,15 @@
 		2B5940C329EDD1A500A1A6AF /* 100DaysOfSwiftUIUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = 100DaysOfSwiftUIUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2B5940C729EDD1A500A1A6AF /* _00DaysOfSwiftUIUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _00DaysOfSwiftUIUITests.swift; sourceTree = "<group>"; };
 		2B5940C929EDD1A500A1A6AF /* _00DaysOfSwiftUIUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _00DaysOfSwiftUIUITestsLaunchTests.swift; sourceTree = "<group>"; };
-		2B5940D629EDE88000A1A6AF /* Day 1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 1.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		2B5940D829EDE94C00A1A6AF /* Day 2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 2.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		2B5940D929EDE95E00A1A6AF /* Day 3.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 3.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		2B5940DA29EDE97E00A1A6AF /* Day 4.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 4.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		2B5940DB29EDE98F00A1A6AF /* Day 5.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 5.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		2B5940DC29EDE99E00A1A6AF /* Day 6.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 6.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		2B5940DD29EDE9AD00A1A6AF /* Day 7.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 7.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		2B5940DE29EDE9C200A1A6AF /* Day 8.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 8.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		2B5940DF29EDE9CC00A1A6AF /* Day 9.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 9.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		2B5940D629EDE88000A1A6AF /* Day 01.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 01.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		2B5940D829EDE94C00A1A6AF /* Day 02.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 02.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		2B5940D929EDE95E00A1A6AF /* Day 03.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 03.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		2B5940DA29EDE97E00A1A6AF /* Day 04.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 04.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		2B5940DB29EDE98F00A1A6AF /* Day 05.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 05.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		2B5940DC29EDE99E00A1A6AF /* Day 06.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 06.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		2B5940DD29EDE9AD00A1A6AF /* Day 07.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 07.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		2B5940DE29EDE9C200A1A6AF /* Day 08.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 08.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		2B5940DF29EDE9CC00A1A6AF /* Day 09.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 09.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		2B5940E029EDE9D600A1A6AF /* Day 10.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 10.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
@@ -141,15 +141,15 @@
 		2B5940D729EDE8DD00A1A6AF /* Day 1 to 100 */ = {
 			isa = PBXGroup;
 			children = (
-				2B5940D629EDE88000A1A6AF /* Day 1.playground */,
-				2B5940D829EDE94C00A1A6AF /* Day 2.playground */,
-				2B5940D929EDE95E00A1A6AF /* Day 3.playground */,
-				2B5940DA29EDE97E00A1A6AF /* Day 4.playground */,
-				2B5940DB29EDE98F00A1A6AF /* Day 5.playground */,
-				2B5940DC29EDE99E00A1A6AF /* Day 6.playground */,
-				2B5940DD29EDE9AD00A1A6AF /* Day 7.playground */,
-				2B5940DE29EDE9C200A1A6AF /* Day 8.playground */,
-				2B5940DF29EDE9CC00A1A6AF /* Day 9.playground */,
+				2B5940D629EDE88000A1A6AF /* Day 01.playground */,
+				2B5940D829EDE94C00A1A6AF /* Day 02.playground */,
+				2B5940D929EDE95E00A1A6AF /* Day 03.playground */,
+				2B5940DA29EDE97E00A1A6AF /* Day 04.playground */,
+				2B5940DB29EDE98F00A1A6AF /* Day 05.playground */,
+				2B5940DC29EDE99E00A1A6AF /* Day 06.playground */,
+				2B5940DD29EDE9AD00A1A6AF /* Day 07.playground */,
+				2B5940DE29EDE9C200A1A6AF /* Day 08.playground */,
+				2B5940DF29EDE9CC00A1A6AF /* Day 09.playground */,
 				2B5940E029EDE9D600A1A6AF /* Day 10.playground */,
 			);
 			path = "Day 1 to 100";
